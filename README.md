@@ -12,11 +12,11 @@
 
 
 
-- 🔭 I’m currently working on my <i>final thesis, writing reconassinace scripts, revising web development stacks.</i>
-- 🌱 I’m currently learning <i>blockchain development, cyber security.</i>
-- 👯 I’m looking to collaborate on any <i>interesting projects.</i>
-- 🤔 I’m looking for help with <i>software development and cyber security.</i>
-- 💬 Ask me about <i>Javascript frameworks and web penetration testing.</i>
-- 📫 How to reach me: Linkedin(<a href="http://linkedin.com/in/khadkauj">Khadkauj</a>) Email:(khadkauj(at)gmail.com) 
-- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on my... <i>final thesis, writing reconassinace scripts, revising web development stacks.</i>
+- 🌱 I’m currently learning... <i>blockchain development, cyber security.</i>
+- 👯 I’m looking to collaborate on any... <i>interesting projects.</i>
+- 🤔 I’m looking for help with ...<i>software development and cyber security.</i>
+- 💬 Ask me about... <i>Javascript frameworks and web penetration testing.</i>
+- 📫 How to reach me: ...<i>Linkedin(<a href="http://linkedin.com/in/khadkauj">Khadkauj</a>) Email:(khadkauj(at)gmail.com) </i>
+- 😄 Pronouns: ... He/Him
 <!--  ⚡ Fun fact:  -->
