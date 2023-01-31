@@ -1,8 +1,6 @@
 
 <h2> Hi, I'm Ujjwal Khadka</h2>
-<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=khadkauj&show_icons=true&theme=radical"
-    width="380"> -->
-<p><em> <br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
+<p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
         Hallo Leute👋
         I have 1.5+ years of experience in building scalable web applications
         and an interest in the latest technologies. I am seeking new opportunities to continue to grow my skills and to
@@ -17,6 +15,6 @@
 - 👯 I’m looking to collaborate on any... <i>interesting projects.</i>
 - 🤔 I’m looking for help with ...<i>software development and cyber security.</i>
 - 💬 Ask me about... <i>Javascript frameworks and web penetration testing.</i>
-- 📫 How to reach me: ...<i>Linkedin(<a href="http://linkedin.com/in/khadkauj">Khadkauj</a>) Email:(khadkauj(at)gmail.com) </i>
-- 😄 Pronouns: ... He/Him
+- 📫 How to reach me:.<i>Linkedin(<a href="http://linkedin.com/in/khadkauj">Khadkauj</a>) Email:(khadkauj(at)gmail.com) </i>
+- 😄 Pronouns: He/Him
 <!--  ⚡ Fun fact:  -->
