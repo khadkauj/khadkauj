@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Ujjwal Khadka</h2>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=khadkauj&show_icons=true&theme=radical"
-    width="380">
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=khadkauj&show_icons=true&theme=radical"
+    width="380"> -->
 <p><em> <br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
         Hallo Leute👋
         I have 1.5+ years of experience in building scalable web applications
@@ -12,15 +12,11 @@
 
 
 
-- 🔭 I’m currently working on my final thesis, writing reconassinace scripts, revising web development stacks.
-- 🌱 I’m currently learning blockchain development, cyber security.
-- 👯 I’m looking to collaborate on any interesting projects.
-- 🤔 I’m looking for help with software development and cyber security.
-- 💬 Ask me about Javascript frameworks and web penetration testing.
-- 📫 How to reach me: [![Twitter:
-ujjwal_infinit](https://img.shields.io/twitter/follow/ujjwal_infinit?style=flat-square)](https://twitter.com/infinitkripalu)
-[![GitHub
-Khadkauj](https://img.shields.io/github/followers/Khadkauj?label=follow%20github&style=flat-square)](https://github.com/khadkauj)
-
+- 🔭 I’m currently working on my <i>final thesis, writing reconassinace scripts, revising web development stacks.</i>
+- 🌱 I’m currently learning <i>blockchain development, cyber security.</i>
+- 👯 I’m looking to collaborate on any <i>interesting projects.</i>
+- 🤔 I’m looking for help with <i>software development and cyber security.</i>
+- 💬 Ask me about <i>Javascript frameworks and web penetration testing.</i>
+- 📫 How to reach me: Linkedin(<a href="http://linkedin.com/in/khadkauj">Khadkauj</a>) Email:(khadkauj(at)gmail.com) 
 - 😄 Pronouns: He/Him
 <!--  ⚡ Fun fact:  -->
