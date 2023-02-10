@@ -10,8 +10,8 @@
 
 
 
-- 🔭 I’m currently working on my... <i>final thesis, writing reconassinace scripts, revising web development stacks.</i>
-- 🌱 I’m currently learning... <i>blockchain development, cyber security.</i>
+- 🔭 I’m currently working on ... <i>doing final thesis on blockchain solutions for Iots.</i>
+- 🌱 I’m currently learning... <i>, .</i>
 - 👯 I’m looking to collaborate on any... <i>interesting projects.</i>
 - 🤔 I’m looking for help with ...<i>software development and cyber security.</i>
 - 💬 Ask me about... <i>Javascript frameworks and web penetration testing.</i>
