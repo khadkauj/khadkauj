@@ -11,10 +11,9 @@
 
 
 - 🔭 I’m currently working on ... <i>doing final thesis on blockchain solutions for Iots.</i>
-- 🌱 I’m currently learning... <i>, .</i>
-- 👯 I’m looking to collaborate on any... <i>interesting projects.</i>
-- 🤔 I’m looking for help with ...<i>software development and cyber security.</i>
-- 💬 Ask me about... <i>Javascript frameworks and web penetration testing.</i>
-- 📫 How to reach me:<i>Linkedin(<a href="http://linkedin.com/in/khadkauj">Khadkauj</a>) Email:(khadkauj(at)gmail.com) </i>
+- 🌱 I’m currently learning... <i>scripting, cloud, penetration testing, blockchain.</i>
+- 👯 I’m looking to collaborate on any... <i>interesting projects/ideas.</i>
+- 💬 Ask me about... <i>Reactjs, Firebase.</i>
+- 📫 How to reach me:<i>Linkedin(<a href="http://linkedin.com/in/khadkauj">Khadkauj</a>) Email:khadkauj(at)gmail.com </i>
 - 😄 Fun fact: I love dogs 🐕.
 <!--  ⚡ Fun fact:  -->
