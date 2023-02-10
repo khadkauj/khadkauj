@@ -15,5 +15,5 @@
 - 👯 I’m looking to collaborate on any... <i>interesting projects/ideas.</i>
 - 💬 Ask me about... <i>Reactjs, Firebase, AWS.</i>
 - 📫 How to reach me: <i>Linkedin(<a href="http://linkedin.com/in/khadkauj">Khadkauj</a>) Email:khadkauj(at)gmail.com </i>
-- 😄 Fun fact: I love dogs 🐕.
+- 😄 Fun fact: I love watching moon 🌙 on night.
 <!--  ⚡ Fun fact:  -->
