@@ -10,8 +10,7 @@
 
 
 
-- 🔭 I’m currently working on ... <i>doing final thesis on Energy Tokenization.</i>
-- 🌱 I’m currently learning... <i>scripting, cloud, penetration testing, blockchain.</i>
+- 🌱 I’m currently learning... <I> DevSecOps, blockchain development.</i>
 - 👯 I’m looking to collaborate on any... <i>interesting projects/ideas.</i>
 - 💬 Ask me about... <i>Reactjs, Firebase, AWS.</i>
 - 📫 How to reach me: <i>Linkedin(<a href="http://linkedin.com/in/khadkauj">Khadkauj</a>) Email:khadkauj(at)gmail.com </i>
